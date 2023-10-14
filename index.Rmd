@@ -6,6 +6,10 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+```{r}
+read.csv('acgr-lea-sy2019-20-long.csv')
+read.csv('countypres_2000-2020.csv')
+```
 
 
 
